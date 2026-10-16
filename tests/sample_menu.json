@@ -1,0 +1,52 @@
+[
+ {
+  "name": "巨无霸套餐",
+  "price": 45.5,
+  "category": "主食"
+ },
+ {
+  "name": "麦辣鸡腿堡套餐",
+  "price": 42.0,
+  "category": "主食"
+ },
+ {
+  "name": "板烧鸡腿堡套餐",
+  "price": 44.0,
+  "category": "主食"
+ },
+ {
+  "name": "双层吉士堡",
+  "price": 25.0,
+  "category": "主食"
+ },
+ {
+  "name": "麦香鱼套餐",
+  "price": 33.5,
+  "category": "主食"
+ },
+ {
+  "name": "麦乐鸡 5块",
+  "price": 19.5,
+  "category": "小食"
+ },
+ {
+  "name": "薯条(中)",
+  "price": 13.5,
+  "category": "小食"
+ },
+ {
+  "name": "可口可乐(中)",
+  "price": 9.5,
+  "category": "饮料"
+ },
+ {
+  "name": "零度可乐(中)",
+  "price": 9.5,
+  "category": "饮料"
+ },
+ {
+  "name": "冰鲜柠檬水",
+  "price": 11.0,
+  "category": "饮料"
+ }
+]
